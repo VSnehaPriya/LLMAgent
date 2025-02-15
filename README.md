@@ -12,8 +12,4 @@ OpenAI API - For LLM-based interactions
 
 Flask/FastAPI - Web framework for API development
 
-SQLite/PostgreSQL - Database management
-
 Docker - Containerization for deployment
-
-Logging and Monitoring - Using standard Python logging and external tools
